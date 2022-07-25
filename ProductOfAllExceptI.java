@@ -34,5 +34,3 @@ class ProductOfAllExceptI {
         sc.close();
     }
 }
-
-// multiply it all and then divya it by x[i]
